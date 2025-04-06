@@ -1,0 +1,7 @@
+name: Raw_Block_Smelting
+version: '1.0.0'
+main: org.Little_100.raw_Block_Smelting.Raw_Block_Smelting
+api-version: '1.16'
+authors: [Little_100]
+description: Allows smelting raw ore blocks into metal blocks.
+website: www.little100.top
